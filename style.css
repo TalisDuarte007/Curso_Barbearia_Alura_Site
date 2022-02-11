@@ -91,6 +91,7 @@ footer{
 
 form{
     margin: 40px 0;
+    margin-left: 30px;
 }
 
 form label, form p{
@@ -130,6 +131,7 @@ form label, form p{
 
 table{
     margin: 20px 0 40px;
+    margin-left: 30px;
 }
 
 thead{
